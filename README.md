@@ -1,4 +1,4 @@
-# Regression Analysis of Housing Prices - Kaggle Competition
+# Regression Analysis of Housing Prices - Kaggle Competition - [View Here](https://github.com/larsenbier/Regression-Analysis-of-Housing-Prices---Kaggle-Competition)
 **Project:** Analyzing what factors influence housing prices and building a gradient boosted decision tree to predict housing prices from the [Ames Housing Dataset](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset).
 * Performed extensive data imputation by analyzing the dataset features.
 * Created seaborn and matplotlib visualizations to aid in exploratory data analysis and transforming the data.
