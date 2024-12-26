@@ -1,3 +1,12 @@
+# Inception Network in Pytorch - [View Here](https://github.com/larsenbier/DataRes-Research-Team-Coding-Assessment---Inception-Net)
+
+*Project completed as part of the Research Team Coding Assessment for DataRes at UCLA, 2024.*
+
+**Project:** Use pytorch to implement machine learning algorithms and deep neural networks.
+
+* Used pytorch to implement linear, logistic, and softmax regression from scratch.
+* Used the pytorch.nn module to implement multiplayer perceptrons, shallow conv nets, and a deep convolutional neural network class based on the GoogLeNet Model from "Going Deeper With Convolutions" (Szegedy et. al., 2014).
+
 # Regression Analysis of Housing Prices - Kaggle Competition - [View Here](https://github.com/larsenbier/Regression-Analysis-of-Housing-Prices---Kaggle-Competition)
 
 *Project completed independently, 2024.*
@@ -8,15 +17,6 @@
 * Created seaborn and matplotlib visualizations to aid in exploratory data analysis and transforming the data.
 * Performed label encoding, dimensionality reduction with PCA, and feature selection to prepare the dataset for machine learning applications.
 * Built an XGBoost decision tree and performed extensive hyperparameter tuning, cross-validating over 5000 combinations of 6 different hyperparameters using random search over a carefully selected hyperparameter space.
-
-# Inception Network in Pytorch - [View Here](https://github.com/larsenbier/DataRes-Research-Team-Coding-Assessment---Inception-Net)
-
-*Project completed as part of the Research Team Coding Assessment for DataRes at UCLA, 2024.*
-
-**Project:** Use pytorch to implement machine learning algorithms and deep neural networks.
-
-* Used pytorch to implement linear, logistic, and softmax regression from scratch.
-* Used the pytorch.nn module to implement multiplayer perceptrons, shallow conv nets, and a deep convolutional neural network class based on the GoogLeNet Model from "Going Deeper With Convolutions" (Szegedy et. al., 2014).
 
 # Census Bureau API Data Scraper - [View Here](https://github.com/larsenbier/SVED-Census-Data-Scraper)
 
