@@ -1,6 +1,6 @@
 # Regression Analysis of Housing Prices - Kaggle Competition - [View Here](https://github.com/larsenbier/Regression-Analysis-of-Housing-Prices---Kaggle-Competition)
 
-*Project completed independently, 2024*
+*Project completed independently, 2024.*
 
 **Project:** Analyzing what factors influence housing prices and building a gradient boosted decision tree to predict housing prices from the [Ames Housing Dataset](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset).
 
@@ -11,7 +11,7 @@
 
 # Inception Network in Pytorch - [View Here](https://github.com/larsenbier/DataRes-Research-Team-Coding-Assessment---Inception-Net)
 
-*Project completed as part of the Research Team Coding Assessment for DataRes at UCLA, 2024*
+*Project completed as part of the Research Team Coding Assessment for DataRes at UCLA, 2024.*
 
 **Project:** Use pytorch to implement machine learning algorithms and deep neural networks.
 
@@ -20,7 +20,7 @@
 
 # Census Bureau API Data Scraper - [View Here](https://github.com/larsenbier/SVED-Census-Data-Scraper)
 
-*Project completed during internship at Sun Valley Economic Development ([SVED](https://sunvalleyeconomy.com/)), 2024*
+*Project completed during internship at Sun Valley Economic Development ([SVED](https://sunvalleyeconomy.com/)), 2024.*
 
 **Project:** Employing the US Census Bureau's American Community Survey [API](https://www.census.gov/data/developers/data-sets/acs-5year.html) to scrape data for publishing in SVED's [Economic Profiles](https://sunvalleyeconomy.com/profiles/#2022) and integrating the data scraper into existing excel data pipelines.
 
@@ -31,7 +31,7 @@
 
 # Abstract Polynomial Toolkit in Python (PyPolynomial) - [View Here](https://github.com/larsenbier/PyPolynomials)
 
-*Project completed independently, 2024*
+*Project completed independently, 2024.*
 
 **Project:** Create a python module to perform a wide variety of operations on polynomials with coefficients in rings/fields beyond the real numbers. This project was inspired by my first course in abstract algebra.
 
@@ -41,7 +41,7 @@
 
 # Data Blogging Visualizations - [View Here](https://github.com/larsenbier/DataRes-2023-24-Blog-Notebooks/blob/main/README.md)
 
-*Project completed for DataRes at UCLA, 2024*
+*Project completed for DataRes at UCLA, 2024.*
 
 **Project:** Analyze datasets to uncover trends and produce compelling visualizations for our Medium blog.
 
