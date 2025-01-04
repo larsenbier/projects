@@ -1,4 +1,6 @@
-# Inception Network in Pytorch - [View Here](https://github.com/larsenbier/DataRes-Research-Team-Coding-Assessment---Inception-Net)
+# Project Portfolio - Larsen Bier
+
+## Inception Network in Pytorch - [View Here](https://github.com/larsenbier/DataRes-Research-Team-Coding-Assessment---Inception-Net)
 
 *Project completed as part of the Research Team Coding Assessment for DataRes at UCLA, 2024.*
 
@@ -7,7 +9,7 @@
 * Used pytorch to implement linear, logistic, and softmax regression from scratch.
 * Used the pytorch.nn module to implement multiplayer perceptrons, shallow conv nets, and a deep convolutional neural network class based on the GoogLeNet Model from "Going Deeper With Convolutions" (Szegedy et. al., 2014).
 
-# Regression Analysis of Housing Prices - Kaggle Competition - [View Here](https://github.com/larsenbier/Regression-Analysis-of-Housing-Prices---Kaggle-Competition)
+## Regression Analysis of Housing Prices - Kaggle Competition - [View Here](https://github.com/larsenbier/Regression-Analysis-of-Housing-Prices---Kaggle-Competition)
 
 *Project completed independently, 2024.*
 
@@ -18,7 +20,7 @@
 * Performed label encoding, dimensionality reduction with PCA, and feature selection to prepare the dataset for machine learning applications.
 * Built an XGBoost decision tree and performed extensive hyperparameter tuning, cross-validating over 5000 combinations of 6 different hyperparameters using random search over a carefully selected hyperparameter space.
 
-# Census Bureau API Data Scraper - [View Here](https://github.com/larsenbier/SVED-Census-Data-Scraper)
+## Census Bureau API Data Scraper - [View Here](https://github.com/larsenbier/SVED-Census-Data-Scraper)
 
 *Project completed during internship at Sun Valley Economic Development ([SVED](https://sunvalleyeconomy.com/)), 2024.*
 
@@ -29,7 +31,7 @@
 * Used openpyxl to parse existing Excel spreadsheets and insert new data without compromising existing data.
 * Thoroughly documented the code so that future SVED interns can use it to save time and money on data gathering.
 
-# Abstract Polynomial Toolkit in Python (PyPolynomial) - [View Here](https://github.com/larsenbier/PyPolynomials)
+## Abstract Polynomial Toolkit in Python (PyPolynomial) - [View Here](https://github.com/larsenbier/PyPolynomials)
 
 *Project completed independently, 2024.*
 
@@ -39,7 +41,7 @@
 * Implemented algorithms to compute polynomial inverses, greatest common divisors, and division, while using abstract algebra to safeguard the algorithms against situations where the they may fail.
 * Created Ring and Field classes with the flexibility to support many abstract, user-defined rings, fields, and polynomials.
 
-# Data Blogging Visualizations - [View Here](https://github.com/larsenbier/DataRes-2023-24-Blog-Notebooks/blob/main/README.md)
+## Data Blogging Visualizations - [View Here](https://github.com/larsenbier/DataRes-2023-24-Blog-Notebooks/blob/main/README.md)
 
 *Project completed for DataRes at UCLA, 2024.*
 
