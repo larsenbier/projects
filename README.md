@@ -1,4 +1,4 @@
-# Project Portfolio - Larsen Bier
+# Projects
 
 ## Inception Network in Pytorch - [View Here](https://github.com/larsenbier/DataRes-Research-Team-Coding-Assessment---Inception-Net)
 
