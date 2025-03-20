@@ -55,7 +55,7 @@
 
 ## Math
 
-### Collection of Proofs on Surjectivity of the Matrix Exponential Map - [View Here](./Cases_of_Surjectivity_of_the_Matrix_Exponential__MATH_110B_Paper.pdf)
+### Collection of Proofs on the Surjectivity of the Matrix Exponential Map - [View Here](./Cases_of_Surjectivity_of_the_Matrix_Exponential__MATH_110B_Paper.pdf)
 
 *Project completed as part of Math 110B, Group Theory, at UCLA*
 
