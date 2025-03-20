@@ -59,4 +59,4 @@
 
 *Project completed as part of Math 110B, Group Theory, at UCLA*
 
-**Project:** A short extra credit paper proving properties of the matrix exponential and investigating some examples of sets on which this operation acts surjectively. The motivation was to do an independent study of Matrix Lie Groups. Read the paper [
+**Project:** A short extra credit paper proving properties of the matrix exponential and investigating some examples of sets on which this operation acts surjectively. The motivation was to do an independent study of Matrix Lie Groups. The paper is a showcase of my proofwriting and technical writing.
