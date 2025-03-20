@@ -55,8 +55,8 @@
 
 ## Math
 
-### Collection of Proofs on Surjectivity of the Exponential Map from $\mathfrak{so}(3)\rightarrow\text{SO}(3)$ and $M_{n\times n}(\mathbb{C})\rightarrow\text{GL}_n(\mathbb{C})$
+### Collection of Proofs on Surjectivity of the Matrix Exponential Map - [View Here](./Cases_of_Surjectivity_of_the_Matrix_Exponential__MATH_110B_Paper.pdf)
 
 *Project completed as part of Math 110B, Group Theory, at UCLA*
 
-**Project:** A short extra credit paper proving properties of the matrix exponential and investigating some examples of sets on which this operation acts surjectively. The motivation was to do an independent study of Matrix Lie Groups. Read the paper [here](./Cases_of_Surjectivity_of_the_Matrix_Exponential__MATH_110B_Paper.pdf).
+**Project:** A short extra credit paper proving properties of the matrix exponential and investigating some examples of sets on which this operation acts surjectively. The motivation was to do an independent study of Matrix Lie Groups. Read the paper [
