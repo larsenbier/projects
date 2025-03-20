@@ -55,5 +55,5 @@
 
 ## Math
 
-### Collection of Proofs on Surjectivity of the exponential map from $\mathfrak{so}(3)\rightarrow$\text{SO}(3)$
+### Collection of Proofs on Surjectivity of the exponential map from $\mathfrak{so}(3)\rightarrow\text{SO}(3)$
 Read more [here](./Cases_of_Surjectivity_of_the_Matrix_Exponential__MATH_110B_Paper.pdf)
