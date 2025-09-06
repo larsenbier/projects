@@ -61,7 +61,7 @@
 
 **Project:** A short extra credit paper proving properties of the matrix exponential and investigating some examples of sets on which this operation acts surjectively. The motivation was to do an independent study of Matrix Lie Groups. The paper is a showcase of my proofwriting and technical writing.
 
-###When is it Worthwile to buy Powerball Tickets? - [View Here](./When_is_it_Worth_it_to_Buy_Powerball_.pdf)
+### When is it Worthwile to buy Powerball Tickets? - [View Here](./When_is_it_Worth_it_to_Buy_Powerball_.pdf)
 
 *Paper written independently.*
 
