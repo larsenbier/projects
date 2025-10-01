@@ -60,10 +60,3 @@
 *Paper written as part of Math 110B, Group Theory, at UCLA.*
 
 **Project:** A short extra credit paper proving properties of the matrix exponential and investigating some examples of sets on which this operation acts surjectively. The motivation was to do an independent study of Matrix Lie Groups. The paper is a showcase of my proofwriting and technical writing.
-
-### When is it Worthwile to buy Powerball Tickets? - [View Here](./When_is_it_Worth_it_to_Buy_Powerball_.pdf)
-
-*Paper written independently.*
-
-**Project:** After seeing the enormous 2025 Powerball jackpot and reading the rules, I realized there was a way to play the game with a long-run positive expectation. This brief paper discusses when to buy Powerball tickets so that your strategy is viable in the long run.
-  
